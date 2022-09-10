@@ -51,3 +51,6 @@ Este curso inclui JavaScript e TypeScript, você vai aprender ambas as linguagen
 🔹Bônus: Padrões de projeto (Design patterns)
 
 🔹Bônus: HTML5 e CSS3
+
+## 🔗Link do curso:
+https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
